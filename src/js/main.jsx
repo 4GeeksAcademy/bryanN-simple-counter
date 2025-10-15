@@ -35,7 +35,7 @@ setInterval(() => {
         digitFive={five}
         digitSix={six}
       />
-      <Card/>
+      
     </React.StrictMode>,
   )
 
